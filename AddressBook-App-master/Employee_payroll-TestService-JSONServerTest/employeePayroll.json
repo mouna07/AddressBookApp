@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "_date": "2020-11-17",
+      "_department": [
+        "Sales",
+        "Finance",
+        "Engineer"
+      ],
+      "_gender": "male",
+      "id": 1,
+      "_name": "Lalit",
+      "_note": "text2",
+      "_profilePic": "../Assets/Ellipse-8.png",
+      "_salary": "453000"
+    },
+    {
+      "_date": "2020-11-12",
+      "_department": [
+        "Finance"
+      ],
+      "_gender": "male",
+      "id": 2,
+      "_name": "Mohit",
+      "_note": "sampletext",
+      "_profilePic": "../Assets/Ellipse-1.png",
+      "_salary": "500000"
+    }
+  ]
+}
